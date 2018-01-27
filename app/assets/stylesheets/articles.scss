@@ -6,13 +6,30 @@
 }
 a {
     text-decoration: none;
-    color: blue;
+
     &:hover {
         color: grey;
+        text-decoration: underline;
     }
 }
 
 table {
     margin: 0 auto;
     text-align: center;
+    min-width: 500px;
 }
+
+button, submit {
+    border: none;
+
+    :hover {
+        cursor: pointer;
+    }
+}
+tr {
+    width: 100%;
+}
+.options {
+    text-align: right;
+}
+
