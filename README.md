@@ -3,25 +3,7 @@
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This is pretty much my first time working with Rails, so I followed the tutorial and then added a tiny bit of styling to make it more blog-like. Wish I had more time to work on it! 
 
 ![alt text](app/assets/images/main.png "Main page picture")
 
