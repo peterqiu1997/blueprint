@@ -23,5 +23,5 @@ Things you may want to cover:
 
 * ...
 
-![alt text](assets/images/main.png "Main page picture")
+![alt text](app/assets/images/main.png "Main page picture")
 
