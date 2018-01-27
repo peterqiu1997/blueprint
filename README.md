@@ -22,3 +22,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+![alt text](assets/images/main.png "Main page picture")
+
